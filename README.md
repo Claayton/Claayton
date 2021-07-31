@@ -1,4 +1,4 @@
-### *Hi!, I'm Clayton Garcia!*
+## *Hi!, I'm Clayton Garcia!*<a href="https://www.linkedin.com/in/claaytongarcia/" target="_blank"><img src="images/linkedin-icon.svg"></a> 
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Claayton">
