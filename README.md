@@ -1,4 +1,4 @@
-## *Hi!, I'm Clayton Garcia!*<a href="https://www.linkedin.com/in/claaytongarcia/" target="_blank"><img src="images/linkedin-icon.svg"></a> 
+## *Hi!, I'm Clayton Garcia!* <a href="https://www.linkedin.com/in/claaytongarcia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" width="90"></a> 
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Claayton">
