@@ -3,9 +3,10 @@
   <img alt="Git" height="50" width="60" src="images/git-icon.svg">
   <img alt="HTML5" height="50" width="60" src="images/html5-icon.svg">
   <img alt="CSS3" height="50" width="60" src="images/css3-icon.svg">
-  <img alt="MySQL" height="50" width="60" src="images/mysql-icon.svg">
+  <img alt="JavaScript" height="50" width="60" src="images/javascript-icon.svg">
   <img alt="Python" height="50" width="60" src="images/python-icon.svg">
   <img alt="Flask" height="50" width="60" src="images/flask-icon.svg">
+  <img alt="MySQL" height="50" width="60" src="images/mysql-icon.svg">
 </div>
 <br/>
 <div style="display: inline_block" align="center">
